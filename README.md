@@ -1,8 +1,9 @@
 # Vehicle-dataset
 ###  **Used Cars Dataset from Kaggle**
+Source : [Kaggle](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/data)
 
 ## **Overview**
-This report presents an analysis of car sales trends from 2008 to 2019, highlighting key insights and model performance. The findings provide a comprehensive understanding of consumer preferences and purchasing behaviors, helping to refine sales and marketing strategies.
+This report presents an analysis of car sales trends from 2006 to 2021, highlighting key insights and model performance. The findings provide a comprehensive understanding of consumer preferences and purchasing behaviors, helping to refine sales and marketing strategies.
 
 ## **Cleaning and PreprocessingOverview**
 - The data contained null values in some columns. This was 1.8% of the entire data values. We dropped missing values
